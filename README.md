@@ -10,7 +10,7 @@ This is the code for the moovit frontend home test. <br/>
 ## How to run the project? 
 After you clone the files - in the project directory, you can run:
 
-### `node src/app.js`
+### `node ./src/app.js`
 
 
 
