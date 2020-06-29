@@ -1,4 +1,4 @@
-# :computer: Moovit Frontend Home Test :computer:
+# Moovit Frontend Home Test
 
 This is the code for the moovit frontend home test. <br/>
 
